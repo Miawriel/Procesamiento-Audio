@@ -27,5 +27,19 @@ Muestreo: Verificación de cómo el sampling rate afecta la representación de l
 📋 Requisitos
 Para replicar este experimento, necesitas instalar:
 
-Bash
-pip install librosa soundfile scipy pydub transformers torch
+Librosa
+
+
+Soundfile 
+
+
+Scipy 
+
+
+Pydub 
+
+
+Transformers 
+
+
+Torch
